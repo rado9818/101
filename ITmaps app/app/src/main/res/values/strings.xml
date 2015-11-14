@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ITmaps</string>
+    <string name="title_activity_home">Map</string>
+    <string name="loading_events">Loading events</string>
+    <string name="add_event">Add event</string>
+    <string name="title_activity_new_event">New event</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name:</string>
+    <string name="enter_name">Enter the event name...</string>
+    <string name="OK">OK</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="desciption">Description</string>
+    <string name="lookinng_for_lecturers">Are you looking for new lecturers?</string>
+    <string name="creating_event">Creating the event</string>
+    <string name="submit">Submit</string>
+    <string name="reload">Reload</string>
+    <string name="title_activity_choose_from_map">Map</string>
+    <string name="pich_up_from_map">Pick up from a map</string>
+    <string name="reset">Reset</string>
+    <string name="contact_info">Enter your web address, email, phone number, or any kinf of contact information</string>
+    <string name="not_empty">The field is empty or not valid!</string>
+    <string name="no_network">There is no network connection!</string>
+    <string name="enter_description">Enter some description</string>
+    <string name="no_events">There are no event on the server</string>
+</resources>

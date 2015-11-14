@@ -1,0 +1,13 @@
+Support, warranty and licensing information
+
+Copyright (C) 1998-2015 101 Networks Corporation
+
+This is an unsupported developer release of the IT Bulgaria app.
+
+101 NETWORKS DO NOT PROVIDE ANY SUPPORT FOR THIS DEVELOPER RELEASE.
+
+Most components of this software give you the right to copy and distribute this software under the terms of the GNU General Public License,
+as published by the Free Software Foundation. 
+
+THIS SOFTWARE COMES WITH ABSOLUTELY NO WARRANTY AND IS PROVIDED "AS IS", WITHOUT ANY EXPRESS OF IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION,
+THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
